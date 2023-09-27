@@ -6,5 +6,5 @@ def sum(a,b,c):
 def multiplication(a,b):
     return(a * b)
 
-def didision(a,b):
+def division(a,b):
      return(a / b)
